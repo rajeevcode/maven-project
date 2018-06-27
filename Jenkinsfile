@@ -1,7 +1,7 @@
 pipeline {
     agent any
     tools {
-        maven 'testMaven'
+        maven 'localMaven'
     }
     stages{
         stage('Build'){
