@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c17245c-5082-4fd6-87b3-31de1934b485" name="Default" comment="" />
+    <list default="true" id="5c17245c-5082-4fd6-87b3-31de1934b485" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/webapp/target/" />
     <ignored path="$PROJECT_DIR$/server/target/" />
@@ -34,7 +37,11 @@
       </file>
       <file leaf-file-name="Jenkinsfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Jenkinsfile">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
@@ -233,7 +240,7 @@
       <option name="presentableId" value="Default" />
       <updated>1529891344227</updated>
       <workItem from="1529891347625" duration="5245000" />
-      <workItem from="1530000592581" duration="1921000" />
+      <workItem from="1530000592581" duration="2680000" />
     </task>
     <servers />
   </component>
@@ -246,11 +253,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7166000" />
+    <option name="totallyTimeSpent" value="7925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="23" width="1210" height="717" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -358,7 +364,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Jenkinsfile">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
