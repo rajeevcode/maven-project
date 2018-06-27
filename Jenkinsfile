@@ -12,8 +12,9 @@ pipeline {
                 echo 'Testing..'
             }
         }
-        stage('Deploy') {
+        stage('Deploy to Staging') {
             steps {
+                build job:'Deploy-to-staging'
                 echo 'Deploying....'
             }
         }
